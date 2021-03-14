@@ -1,3 +1,7 @@
+# Web Scraping With Puppeteer, NodeJS & HTML
+
+[![](https://github.com/icueMike/Web-Scrapping-Puppeteer/raw/main/wscraping.jpg)](https://github.com/icueMike/Web-Scrapping-Puppeteer)
+
 ## Tools
 
 - You will need to be sure to install [NodeJS](Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. "NodeJS") which at this time the latest is: `14.16.0 LTS Recommended` or download **Windows (Chocolatey)** using SHELL: `choco install nodejs-lts`
